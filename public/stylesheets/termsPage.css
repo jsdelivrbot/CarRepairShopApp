@@ -20,6 +20,12 @@
     border: 1px solid gray;
 }
 
+.terms_inner_wrap .backBtn{
+    position: absolute;
+    color: royalblue;
+    left: 25px;
+}
+
 .terms_inner_wrap .temrs_content{
     height: 100%;
     padding: 15px;
