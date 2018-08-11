@@ -204,6 +204,10 @@ router.post('/login', passport.authenticate('local', {failureRedirect: '/login',
   }
 );
 
+router.get('/terms', function(req, res, next) {
+  res.render('termsPage', { title: '이용 약관' });
+});
+
 
 /**
  * 1. 중복성 검사

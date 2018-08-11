@@ -1,0 +1,49 @@
+.termsPage_wrap{
+    height: 100%;
+    padding-bottom: 72px;
+}
+
+.termsPage_wrap .terms_main_container{
+    height: 100%;
+    padding-bottom: 60px;
+}
+
+.termsPage_wrap .terms_inner_wrap{
+    height: 100%;
+}
+
+.terms_inner_wrap .temrs_title{
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.2rem;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.terms_inner_wrap .temrs_content{
+    height: 100%;
+    padding: 15px;
+    padding-bottom: 55px;
+}
+
+.terms_inner_wrap .temrs_text{
+    display: block;
+    overflow: scroll;
+    font-size: 1.2rem;
+    width: 100%;
+    height: 100%;
+    border: 0px white solid;
+}
+
+.termsPage_wrap .acceptBtn{
+    position: absolute;
+    display: inline-block;
+    height: 60px;
+    width: 100%;
+    bottom: 72px;
+    font-size:1rem;
+    background: gray;
+    border: 1px solid #ddd;
+    text-align: center;
+    line-height: 60px;
+}
