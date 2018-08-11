@@ -12,7 +12,7 @@
     height: 100%;
 }
 
-.terms_inner_wrap .temrs_title{
+.terms_inner_wrap .terms_title{
     height: 50px;
     line-height: 50px;
     font-size: 1.2rem;
@@ -26,13 +26,13 @@
     left: 25px;
 }
 
-.terms_inner_wrap .temrs_content{
+.terms_inner_wrap .terms_contents{
     height: 100%;
     padding: 15px;
     padding-bottom: 55px;
 }
 
-.terms_inner_wrap .temrs_text{
+.terms_inner_wrap .terms_text{
     display: block;
     overflow: scroll;
     font-size: 1.2rem;
