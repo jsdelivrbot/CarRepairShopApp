@@ -12,7 +12,7 @@
     height: 100%;
 }
 
-.termsPage_wrap .terms_inner_wrap .terms_title{
+.terms_inner_wrap .terms_title{
     height: 50px;
     line-height: 50px;
     font-size: 1.2rem;
@@ -20,19 +20,19 @@
     border: 1px solid gray;
 }
 
-.termsPage_wrap .terms_inner_wrap .backBtn{
+.terms_inner_wrap .backBtn{
     position: absolute;
     color: royalblue;
     left: 25px;
 }
 
-.termsPage_wrap .terms_inner_wrap .terms_contents{
+.terms_inner_wrap .terms_contents{
     height: 100%;
     padding: 15px;
     padding-bottom: 55px;
 }
 
-.termsPage_wrap .terms_inner_wrap .terms_text{
+.terms_inner_wrap .terms_text{
     display: block;
     overflow: scroll;
     font-size: 1.2rem;
